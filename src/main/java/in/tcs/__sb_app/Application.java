@@ -13,9 +13,14 @@ public class Application {
 		System.out.println(i);
 		int k = 30;
 		System.out.println(k);
+
         char gender = 'M';
 		int age = 20;
         double price =2123.90;
+
+             boolean isSaved =false;
+             boolean  isUpdated = true;
+       	     double price =2123.90;
 
               String name ="PremReddy";
 
