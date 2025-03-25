@@ -13,6 +13,7 @@ public class Application {
 	
 
 		SpringApplication.run(Application.class, args);
+
 		int j = 20;
 		System.out.println(i);
 		int k = 30;
