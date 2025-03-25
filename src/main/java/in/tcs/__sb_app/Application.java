@@ -5,7 +5,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+ 
+//JIRA-102
 
+     public void m2(){
+
+	 }
 	public static void main(String[] args) {
 
 		System.out.println("Hi");
