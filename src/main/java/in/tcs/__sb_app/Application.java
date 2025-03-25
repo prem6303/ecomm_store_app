@@ -17,10 +17,7 @@ public class Application {
     public void m1(){
 
 	}
-	JIRA-102
-	 public void m2(){
-
-	 }
+	
 
 	public static void main(String[] args) {
 
