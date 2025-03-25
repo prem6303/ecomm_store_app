@@ -6,18 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
  
-//JIRA-102
 
-
-     public void m2(){
-
-	 }
-
-//JIRA-101
-    public void m1(){
-
-	}
-	
 
 	public static void main(String[] args) {
 
