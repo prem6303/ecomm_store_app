@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+ 
+
 
 	public static void main(String[] args) {
 
@@ -13,6 +15,7 @@ public class Application {
 	
 
 		SpringApplication.run(Application.class, args);
+
 		int j = 20;
 		System.out.println(i);
 		int k = 30;
